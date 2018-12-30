@@ -3,12 +3,12 @@ Welcome to the PIA_Notification wiki!
 
 This script is to see and copy the port number of port forwarded servers of Private internet access.
 
-If it the port number is not assigned then this is shown.
+_If it the port number is not assigned then this is shown_.
 
 ![Fetch error](https://res.cloudinary.com/dhqfxgoeo/image/upload/v1546158157/b.png)
 
 
-Otherwise 
+_Otherwise_ 
 
 ![Success](https://res.cloudinary.com/dhqfxgoeo/image/upload/v1546158157/a.png)
 
