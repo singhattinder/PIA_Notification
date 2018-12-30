@@ -6,17 +6,17 @@ This script is to see and copy the port number of port forwarding servers of Pri
 These are the servers:
 
 > 1. Canada Montreal
-2. Canada Toronto
-3. Canada Vancouver
-4. Czech Republic
-5. France
-6. Germany Berlin
-7. Germany Frankfurt
-8. Isreal
-9. Romania
-10. Spain
-11. Sweden
-12. Switzerland
+> 2. Canada Toronto
+> 3. Canada Vancouver
+> 4. Czech Republic
+> 5. France
+> 6. Germany Berlin
+> 7. Germany Frankfurt
+> 8. Isreal
+> 9. Romania
+> 10. Spain
+> 11. Sweden
+> 12. Switzerland
 
 
 _If it the port number is not assigned then this is shown_.
