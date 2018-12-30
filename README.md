@@ -1,7 +1,7 @@
 Welcome to the **`Noti.py`**
 
 
-This script is to see and copy the port number of port forwarding servers of Private internet access.
+This script is to see and copy the port number of port forwarding servers of Private Internet Access.
 
 ##### To run open Terminal and type `python Noti.py`
 
