@@ -31,3 +31,6 @@ _Otherwise_
 
 You can only see port number first time you connect to the server. Any subsequent runs of this script will give Fetch errors.
 This is because PIA has a very vauge API for this purpose. **`It is only for macOS`**.
+
+
+`I wrote this because currently PIA's native mac application's feature to see the port is broken.`
