@@ -35,4 +35,4 @@ You can only see port number first time you connect to the server. Any subsequen
 This is because PIA has a very vauge API for this purpose. **`It is only for macOS`**.
 
 
-`I wrote this because currently PIA's native mac application's feature to see the port is broken.`
+`I wrote this because currently PIA's native mac application's (v82 Oct 3rd 2018) feature to see the port is broken.`
