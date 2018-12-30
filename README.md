@@ -3,6 +3,8 @@ Welcome to the **`Noti.py`**
 
 This script is to see and copy the port number of port forwarding servers of Private internet access.
 
+To run open Terminal and type `python Noti.py`
+
 These are the servers:
 
 > 1. Canada Montreal
